@@ -16,4 +16,4 @@ Cogeremos ejemplos de https://retosdeprogramacion.com e iremos completandolos se
 
 * Una vez hecho el ejercicio, subimos la rama al repositorio.
 
-* Tras esto, crearemos una merge request para solicitar mergear la rama del ejercicio en la rama *master*
+* Tras esto, crearemos una pull request para solicitar mergear la rama del ejercicio en la rama *master* (podemos pedirle a Copilot o a David que revisen la pull request)
