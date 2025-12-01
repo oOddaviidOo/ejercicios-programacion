@@ -5,6 +5,19 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "ejercicios-programacion_b1d6de14"
+        },
+        {
+            "type": "java",
+            "name": "Java",
+            "request": "launch",
+            "projectName": "ejercicios-programacion_b1d6de14"
+        },
+        {
             "type": "node",
             "name": "vscode-jest-tests.v2",
             "request": "launch",
@@ -25,7 +38,6 @@
                 "program": "${workspaceFolder}/node_modules/jest/bin/jest"
             }
         },
-        
         {
             "name": "ts-node",
             "type": "node",
