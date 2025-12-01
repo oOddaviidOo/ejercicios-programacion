@@ -13,9 +13,19 @@
         },
         {
             "type": "java",
-            "name": "Java",
+            "name": "AliciaEsAnagrama",
             "request": "launch",
+            "mainClass": "AliciaEsAnagrama",
             "projectName": "ejercicios-programacion_b1d6de14"
+        },
+        {
+            "type": "java",
+            "name": "Java archivo actual (sin proyecto)",
+            "request": "launch",
+            "mainClass": "${fileBasenameNoExtension}",
+            "cwd": "${fileDirname}",
+            "console": "integratedTerminal",
+            "args": []
         },
         {
             "type": "node",
