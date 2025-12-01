@@ -1,0 +1,8 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "npx ts-node"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true
+}
