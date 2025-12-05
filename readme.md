@@ -17,3 +17,8 @@ Cogeremos ejemplos de https://retosdeprogramacion.com e iremos completandolos se
 * Una vez hecho el ejercicio, subimos la rama al repositorio.
 
 * Tras esto, crearemos una pull request para solicitar mergear la rama del ejercicio en la rama *master* (podemos pedirle a Copilot o a David que revisen la pull request)
+
+
+## Cómo ejecutar los archivos
+ * **En caso de Java:** Se puede crear solo un archivo Java si necesida de crear proyecto o package. Pulsar el icono de *Play* arriba a la derecha de la ventana de VSCode y se ejecutará en consola, acorde a las instrucciones del archivo ``launch.json``. Cuando se haga otro ejercicio será necesario cerrar y reabrir VSCode. Alternativamente, también se puede probar en Netbeans o IntelliJ
+ * **En caso de Typescript:** Pulsar el icono de *Play* arriba a la derecha de la ventana de VSCode y se ejecutará en consola, acorde a las instrucciones del archivo ``launch.json``.

@@ -4,5 +4,6 @@
     },
     "code-runner.runInTerminal": true,
     "code-runner.clearPreviousOutput": true,
-    "code-runner.saveFileBeforeRun": true
+    "code-runner.saveFileBeforeRun": true,
+    "java.debug.settings.onBuildFailureProceed": true
 }

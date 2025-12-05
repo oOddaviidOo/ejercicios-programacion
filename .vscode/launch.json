@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SucesionFibonacci",
+            "request": "launch",
+            "mainClass": "SucesionFibonacci",
+            "projectName": "ejercicios-programacion_b1d6de14"
+        },
+        {
+            "type": "java",
             "name": "FizzBuzz",
             "request": "launch",
             "mainClass": "FizzBuzz",
