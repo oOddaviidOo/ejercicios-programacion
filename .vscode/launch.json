@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InvirtiendoCadenas",
+            "request": "launch",
+            "mainClass": "InvirtiendoCadenas",
+            "projectName": "ejercicios-programacion_b1d6de14"
+        },
+        {
+            "type": "java",
             "name": "SucesionFibonacci",
             "request": "launch",
             "mainClass": "SucesionFibonacci",
